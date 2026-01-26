@@ -10,7 +10,7 @@ Institute Inc.
 
 # Overview
 
-This small repository contains the [text contents](blob/main/ds_sassoftware_statprog_bios_comb.txt)
+This small repository contains the [text contents](ds_sassoftware_statprog_bios_comb.txt)
 of a flashcard deck for reviewing statistical programming in the SAS
 programming language / statistical environment.
 
