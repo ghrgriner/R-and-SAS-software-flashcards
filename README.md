@@ -10,10 +10,14 @@ Institute Inc.
 # Overview
 
 This small repository contains the [text contents](ds_sassoftware_statprog_bios_comb.txt)
-of a flashcard deck for reviewing statistical programming in both R and the SAS
-programming language / statistical environment. The R content is incomplete in the sense
+of a flashcard deck for reviewing statistical programming in both the R and SAS
+programming languages / statistical environments. The R content is incomplete in the sense
 that I have shared some notes on selected advanced topics only [in another deck](https://github.com/ghrgriner/advanced-R-flashcards) under a different license. This other deck is omitted
 from further discussion here.
+
+The R notes cover both base R and 'tidyverse' programming [2], but the graphics
+discussion is pretty limited. The notes on the SAS language cover base SAS,
+macro programming, selected SAS/STAT procedures, and the output delivery system (ODS).
 
 A version of the deck for use in the Anki flashcard program is also shared
 [on AnkiWeb here](https://ankiweb.net/shared/info/742287929). There is a
@@ -30,3 +34,5 @@ that causes).
 # References
 
 [1] Linked page last updated November 2025 (date of retrieval: January 26, 2026)
+
+[2] Wickham H, Averick M, Bryan J, et al. (2019). Welcome to the tidyverse. *Journal of Open Source Software*. 4(43): 1686. https://doi.org/10.21105/joss.01686.
