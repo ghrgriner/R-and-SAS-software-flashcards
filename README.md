@@ -10,11 +10,12 @@ Institute Inc.
 # Overview
 
 This small repository contains the [text contents](ds_sassoftware_statprog_bios_comb.txt)
-of a flashcard deck for reviewing statistical programming in the SAS
-programming language / statistical environment. Information on the R language
-is partially included.
+of a flashcard deck for reviewing statistical programming in both R and the SAS
+programming language / statistical environment. The R content is incomplete in the sense
+that I have shared some notes on selected advanced topics only [in another deck](https://github.com/ghrgriner/advanced-R-flashcards) under a different license. This other deck is omitted
+from further discussion here.
 
-A version of the deck for use in the Anki flashcard program is shared
+A version of the deck for use in the Anki flashcard program is also shared
 [on AnkiWeb here](https://ankiweb.net/shared/info/742287929). There is a
 24-hour delay on AnkiWeb between the time a deck is submitted for sharing and
 the time it is visible to the public. Therefore, if the above link is
