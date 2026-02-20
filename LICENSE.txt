@@ -1,8 +1,12 @@
 --------------------------------------------------
 License for text files
 --------------------------------------------------
-The file 'ds_sassoftware_statprog_bios_comb.txt' in this directory is
-licensed under the
+THIS DECK refers to both:
+- the file 'ds_sassoftware_statprog_bios_comb.txt' in this directory
+- the file named 'Data_Science_R_SAS_Software_Stat_Prog_Biostats_v*.apkg'
+  in each release (where * is a version number of the form 'n_m').
+
+THIS DECK is licensed under the
 Creative Commons Attribution 4.0 International (CC BY 4.0).
 
 URL of a human-readable summary of the CC BY 4.0 license:
@@ -13,7 +17,7 @@ URL of the license itself. The summary is not a substitute for the license:
 
 ---------------------------------------------------------------------------
 
-The file 'ds_sassoftware_statprog_bios_comb.txt' is © 2026 by Ray Griner.
+THIS DECK is © 2026 by Ray Griner.
 
 ---------------------------------------------------------------------------
 
